@@ -10,6 +10,7 @@ data-science-learning/
 ├── data/          # Datasets (raw and processed)
 ├── reports/       # Generated reports and outputs
 ├── notes/         # Learning notes and documentation
+├── projects/      # Complete data science projects
 └── README.md      # This file
 ```
 
@@ -20,6 +21,7 @@ data-science-learning/
 - **data/**: Storage for datasets used in projects (raw and processed data)
 - **reports/**: Generated analysis reports, visualizations, and project outputs
 - **notes/**: Personal notes, learning resources, and documentation
+- **projects/**: Complete end-to-end data science projects with their own structure
 
 ## Getting Started
 
